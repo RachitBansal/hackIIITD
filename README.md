@@ -5,7 +5,6 @@
 ### Hope you have as much fun going through them and experimenting with them as we had when making.
 
 :)
-<<<<<<< HEAD
 =======
 
 # We have 2 Main Components
@@ -28,4 +27,3 @@ Make sure flutter sdk and required dependencies are already installed.
 Please setup a GCP project with Dialogflow and Firestore enabled
 
 And then use Python to run the `firebase_app` and `flask2.py` for their respective roles.
->>>>>>> a368413d0dff4aab7eb06c3035c04e5f3764bcb5
